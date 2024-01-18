@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ag-grid-angular": "^31.0.2",
+    "ag-grid-community": "^31.0.2"
+  }
+}
